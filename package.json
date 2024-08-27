@@ -70,7 +70,7 @@
     "sass-loader": "4.0.0",
     "style-loader": "0.13.1",
     "validate-commit-msg": "2.7.0",
-    "webpack": "1.14.0",
+    "webpack": "5.94.0",
     "webpack-dev-server": "1.14.1"
   },
   "dependencies": {
